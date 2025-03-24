@@ -30,9 +30,9 @@ whether the tank is accurately depicted)
 
 ## Example of usage
 New object creation 
-'''
+```
 object_name = Tank_recogniser('path/to/pretrained/model')
-'''
+```
 
 Image-based prediction 
 ```
