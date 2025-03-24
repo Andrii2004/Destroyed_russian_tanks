@@ -4,7 +4,6 @@ This project aims to use computer vision for automatic detection and assessment 
 
 ## ⚠️ Disclaimer 
 
-## Features 🌟
 
 ## YOLO 11
 
