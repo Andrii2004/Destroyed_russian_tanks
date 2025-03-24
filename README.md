@@ -4,4 +4,4 @@ This project aims to use computer vision for automatic detection and assessment 
 
 ## YOLO v11
 
-![image.png](attachment:2dd70cd4-f6e1-42b0-a107-2365c933b21c.png)
+[image.png](attachment:2dd70cd4-f6e1-42b0-a107-2365c933b21c.png)
