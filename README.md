@@ -10,7 +10,7 @@ This project aims to use computer vision for automatic detection and assessment 
 ### Data sourses 
 the initial dataset consists of images based on data from the dataset (https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) and data from public sources
 
-### Data proccesing pipeline
+### Data preproccesing pipeline
 - Cutting collages (images consisting of several photos)
 - Data filtering
 (removing images with low resolution
@@ -18,9 +18,9 @@ or those where it is impossible to determine
 whether the tank is accurately depicted)
 - Image markup¶
 - Auto-Orient
-- Resize (Fit edges to 640x640)
+- Resize (Fit edges to 640x640 while keeping the aspect ratio by adding black rectangles)
 
-Images augmentation steps :
+### Images augmentation steps :
 - 90° Rotate 
 - Rotation
 - Grayscale
