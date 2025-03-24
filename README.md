@@ -25,6 +25,6 @@ whether the tank is accurately depicted)
 - Rotation
 - Grayscale
 
-## Example of usage
+## Screenshots 📷
 
 
