@@ -16,7 +16,7 @@ the initial dataset consists of images based on data from the dataset (https://w
 (removing images with low resolution
 or those where it is impossible to determine
 whether the tank is accurately depicted)
-- Image markup¶
+- Image labeling
 - Auto-Orient
 - Resize (Fit edges to 640x640 while keeping the aspect ratio by adding black rectangles)
 
