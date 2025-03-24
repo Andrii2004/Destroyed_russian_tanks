@@ -26,5 +26,8 @@ whether the tank is accurately depicted)
 - Grayscale
 
 ## Screenshots 📷
+Here are some screenshots that demonstrate the functionality of Tank detector :
 
+![procced_image1](https://github.com/user-attachments/assets/fe4e0dcf-c46e-4901-bce0-86d6ecce9b9a)
+![procced_image2](https://github.com/user-attachments/assets/84af7b34-7fb1-4413-ab67-fb0ddb90017d)
 
