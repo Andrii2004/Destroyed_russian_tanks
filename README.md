@@ -24,7 +24,7 @@ whether the tank is accurately depicted)
 - 90° Rotate 
 - Rotation
 - Grayscale
-- 
+
 ## Instalation
 
 
