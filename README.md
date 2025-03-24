@@ -4,4 +4,27 @@ This project aims to use computer vision for automatic detection and assessment 
 
 ## YOLO v11
 
-[image.png](attachment:2dd70cd4-f6e1-42b0-a107-2365c933b21c.png)
+
+
+## Dataset
+### Data sourses 
+the initial dataset consists of images based on data from the dataset (https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) and data from public sources
+
+### Data proccesing pipeline
+- Cutting collages (images consisting of several photos)
+- Data filtering
+(removing images with low resolution
+or those where it is impossible to determine
+whether the tank is accurately depicted)
+- Image markup¶
+- Auto-Orient
+- Resize (Fit edges to 640x640)
+
+Images augmentation steps :
+- 90° Rotate 
+- Rotation
+- Grayscale
+
+## Example of usage
+
+
