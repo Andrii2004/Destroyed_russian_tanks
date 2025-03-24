@@ -14,7 +14,7 @@ YOLO11 is the latest iteration in the Ultralytics YOLO series of real-time objec
 
 
 
-## Dataset
+## Dataset 🗂
 ### Data sourses 
 the initial dataset consists of images based on data from the dataset (https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) and data from public sources
 
