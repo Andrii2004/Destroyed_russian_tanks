@@ -59,5 +59,5 @@ Here are some screenshots that demonstrate the functionality of Tank_recogniser 
 
 ## Future plans
 
-- Add a separate model for a more detailed forecast of the tank's condition
-- Add other groups of equipment, such as Infantry fighting vehicle , Armoured personnel carrier , etcetera 
+- Add a separate model for a more detailed predict of the tank's condition
+- Add other groups of equipment, such as Infantry fighting vehicle , Armoured personnel carrier , etc.
