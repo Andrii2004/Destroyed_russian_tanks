@@ -20,7 +20,7 @@ whether the tank is accurately depicted)
 - Auto-Orient
 - Resize (Fit edges to 640x640 while keeping the aspect ratio by adding black rectangles)
 
-### Images augmentation steps :
+### Images augmentation steps 
 - 90° Rotate 
 - Rotation
 - Grayscale
