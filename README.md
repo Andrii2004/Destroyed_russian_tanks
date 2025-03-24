@@ -1,9 +1,10 @@
 # Destroyed_russian_tanks
 
-This project aims to use computer vision for automatic detection and assessment of damage to Russian tanks. Using image processing algorithms and Ultralytics' trained YOLO v11 model, the system can analyse images and videos of tanks destroyed or damaged during combat operations, determine the level of damage and provide data for further analysis or decision-making. The project aims to speed up the damage assessment process and help in the operational planning of military operations.
+This project aims to use computer vision for automatic detection and assessment of damage to Russian tanks. Using image processing algorithms and Ultralytics' trained YOLO 11 model, the system can analyse images and videos of tanks destroyed or damaged during combat operations, determine the level of damage and provide data for further analysis or decision-making. The project aims to speed up the damage assessment process and help in the operational planning of military operations.
 
 ## ⚠️ Disclaimer 
 
+The project is still under development, so now only the detection of tanks and their classification into groups ‘With tower’ and ‘Without tower’ are available
 
 ## YOLO 11
 
@@ -57,3 +58,6 @@ Here are some screenshots that demonstrate the functionality of Tank_recogniser 
 ![procced_image4](https://github.com/user-attachments/assets/2658a12a-bce1-48dc-a943-7256be8f6168)
 
 ## Future plans
+
+- Add a separate model for a more detailed forecast of the tank's condition
+- Add other groups of equipment, such as Infantry fighting vehicle , Armoured personnel carrier , etcetera 
