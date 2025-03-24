@@ -61,3 +61,6 @@ Here are some screenshots that demonstrate the functionality of Tank_recogniser 
 
 - Add a separate model for a more detailed predict of the tank's condition
 - Add other groups of equipment, such as Infantry fighting vehicle , Armoured personnel carrier , etc.
+
+## 🤝 Contributions
+Feel free to contribute! Open an issue or submit a pull request if you'd like to help improve the project. All contributions are welcome. 🙌
