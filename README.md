@@ -24,6 +24,16 @@ whether the tank is accurately depicted)
 - 90° Rotate 
 - Rotation
 - Grayscale
+- 
+## Instalation
+```
+ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+## Example of usage
 
 ## Screenshots 📷
 Here are some screenshots that demonstrate the functionality of Tank detector :
