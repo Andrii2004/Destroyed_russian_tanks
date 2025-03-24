@@ -2,6 +2,10 @@
 
 This project aims to use computer vision for automatic detection and assessment of damage to Russian tanks. Using image processing algorithms and Ultralytics' trained YOLO v11 model, the system can analyse images and videos of tanks destroyed or damaged during combat operations, determine the level of damage and provide data for further analysis or decision-making. The project aims to speed up the damage assessment process and help in the operational planning of military operations.
 
+## ⚠️ Disclaimer 
+
+## Features 🌟
+
 ## YOLO 11
 
 YOLO11 is the latest iteration in the Ultralytics YOLO series of real-time object detectors, redefining what's possible with cutting-edge accuracy, speed, and efficiency. Building upon the impressive advancements of previous YOLO versions, YOLO11 introduces significant improvements in architecture and training methods, making it a versatile choice for a wide range of computer vision tasks.
@@ -28,9 +32,6 @@ whether the tank is accurately depicted)
 - Rotation
 - Grayscale
 
-## Instalation
-
-
 ## Example of usage
 New object creation 
 ```
@@ -46,7 +47,7 @@ Video-based prediction
 ```
 object_name.predict_video('path/to/video') 
 ```
-
+More detailes you can find in Example notebook
 ## Screenshots 📷
 Here are some screenshots that demonstrate the functionality of Tank_recogniser :
 
