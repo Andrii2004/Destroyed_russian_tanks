@@ -26,14 +26,23 @@ whether the tank is accurately depicted)
 - Grayscale
 - 
 ## Instalation
-```
-ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
 
 ## Example of usage
+New object creation 
+'''
+object_name = Tank_recogniser('path/to/pretrained/model')
+'''
+
+Image-based prediction 
+```
+object_name.predict_image('path/to/image', show=True)
+```
+
+Video-based prediction
+```
+object_name.predict_video('path/to/video') 
+```
 
 ## Screenshots 📷
 Here are some screenshots that demonstrate the functionality of Tank detector :
