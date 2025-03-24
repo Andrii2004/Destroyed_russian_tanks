@@ -30,4 +30,6 @@ Here are some screenshots that demonstrate the functionality of Tank detector :
 
 ![procced_image1](https://github.com/user-attachments/assets/fe4e0dcf-c46e-4901-bce0-86d6ecce9b9a)
 ![procced_image2](https://github.com/user-attachments/assets/84af7b34-7fb1-4413-ab67-fb0ddb90017d)
+![procced_image3](https://github.com/user-attachments/assets/3557dabf-9cf3-4c31-b88d-426690ad163a)
+![procced_image4](https://github.com/user-attachments/assets/2658a12a-bce1-48dc-a943-7256be8f6168)
 
