@@ -33,7 +33,7 @@ whether the tank is accurately depicted)
 - Rotation
 - Grayscale
 
-## Example of usage
+## Example of usage 🛠️
 New object creation 
 ```
 object_name = Tank_recogniser('path/to/pretrained/model')
