@@ -6,7 +6,7 @@ This project aims to use computer vision for automatic detection and assessment 
 
 The project is still under development, so now only the detection of tanks and their classification into groups ‘With tower’ and ‘Without tower’ are available
 
-## YOLO 11
+## YOLO 11 🤖
 
 YOLO11 is the latest iteration in the Ultralytics YOLO series of real-time object detectors, redefining what's possible with cutting-edge accuracy, speed, and efficiency. Building upon the impressive advancements of previous YOLO versions, YOLO11 introduces significant improvements in architecture and training methods, making it a versatile choice for a wide range of computer vision tasks.
 
